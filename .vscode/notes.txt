@@ -18,7 +18,8 @@
             Deploying the application to heorku 
                 Using heorku CLI 
 
-                        heroku create crown-clothing-proj --buildpack https://github/mars/create-react-app-buildpack.git
+                        heroku create crown-clothing-test --buildpack https://github/mars/create-react-app-buildpack.git
+                        
 
                         git push heroku HEAD:master
 
