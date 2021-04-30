@@ -1,0 +1,26 @@
+29 April 2021, 2.30pm
+    Making the firebase account with "puneeth1996p"
+        Created as "Crown-clothing-db"
+
+30 April 2021, 4.15pm 
+    The strip account was created with the puneeth1996p@gmail.com accoutn
+            https://dashboard.stripe.com/test/apikeys
+        Save this emergency backup code and store it somewhere safe. If you lose your mobile device, you can use this code to bypass two-step authentication and sign in.
+
+            ipmh-zseh-vqyz-jtig-tyrk
+
+        Test The Action in Strip 
+                    https://stripe.com/docs/testing#cards
+
+        
+        4.30pm 
+
+            Deploying the application to heorku 
+                Using heorku CLI 
+
+                        heroku create crown-clothing-test --buildpack https://github/mars/create-react-app-buildpack.git
+                        
+
+                        git push heroku HEAD:master
+
+
