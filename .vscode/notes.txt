@@ -23,3 +23,13 @@
 
                         git push heroku main
 
+                        heroku open
+
+
+
+                At 6.50pm 
+                    The site is deployed 
+                            https://live-crown-clothing-in.herokuapp.com/
+
+
+
