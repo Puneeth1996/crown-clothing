@@ -17,6 +17,7 @@
 
             Deploying the application to heorku 
                 Using heorku CLI 
+                    ( Make sure to have one lock file, either yarn.lock or package-lock.json, always better the yarn.lock file )
 
                         heroku create crown-clothing-inlive --buildpack https://github/mars/create-react-app-buildpack.git
                         
