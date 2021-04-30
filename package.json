@@ -4,7 +4,7 @@
   "private": true,
   "engines": {
     "node": "14.x"
-  }
+  },
   "dependencies": {
     "firebase": "^8.4.3",
     "node-sass": "4.12.0",
